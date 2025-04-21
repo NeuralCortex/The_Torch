@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Torch</string>
+    <string name="btnFullscreen">Fullscreen</string>
+    <string name="flashOn">Flash On</string>
+    <string name="flashOff">Flash Off</string>
+    <string name="cbHypno">HYPNO MODE</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomCheckBoxStyle" parent="Widget.AppCompat.CompoundButton.CheckBox">
+        <item name="android:minHeight">?attr/customButtonHeight</item>
+        <item name="android:buttonTint">@color/light_blue_600</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="CustomButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:minHeight">?attr/customButtonHeight</item>
+        <item name="android:backgroundTint">@color/light_blue_600</item>
+        <item name="android:textColor">@color/white</item>
+
+    </style>
+
+    <style name="CustomToggleButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:minHeight">?attr/customButtonHeight</item>
+        <item name="android:backgroundTint">@color/light_blue_600</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>

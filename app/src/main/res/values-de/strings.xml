@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The Torch</string>
+    <string name="btnFullscreen">Vollbild</string>
+    <string name="flashOn">Blitz an</string>
+    <string name="flashOff">Blitz aus</string>
+    <string name="cbHypno">Hypno</string>
+</resources>
