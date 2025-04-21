@@ -1,6 +1,6 @@
 # The Torch 1.0
 
-![image](https://github.com/NeuralCortex/The_Torch/images/torch.png)
+![image](https://github.com/NeuralCortex/The_Torch/blob/main/images/torch.png)
 
 ## Description
 
