@@ -1,7 +1,5 @@
 # The Torch 1.0
 
-![image](https://github.com/NeuralCortex/The_Torch/blob/main/images/torch.png)
-
 ## Description
 
 With "The Torch" you can turn your Android smartphone into a flexible flashlight!</br> 
@@ -17,3 +15,5 @@ This intuitive app allows you to manually switch your phone's flash on and off a
 
 This Android project was built with Android Studio Meerkat 2024.3.1 IDE [Android Studio](https://developer.android.com/).</br>
 Tested on Samsung Galaxy S22 [Samsung](https://www.samsung.com/us/).
+
+![image](https://github.com/NeuralCortex/The_Torch/blob/main/images/torch.png)
